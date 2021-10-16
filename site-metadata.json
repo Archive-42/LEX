@@ -91,5 +91,6 @@
         "subscribe_action": "/subscribe-success"
     },
     "title": "Stackbit Ampersand Theme",
-    "domain": "https://unique-bee-a3cba.netlify.app"
+    "domain": "https://unique-bee-a3cba.netlify.app",
+    "favicon": "images/lex-circle-2df61b4a.png"
 }
