@@ -11,11 +11,11 @@ template: page
 ---
 ## Lorem ipsum
 
-<h2><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
+
 
 
 <h1>Videos of Alex</h1><div class="stackedit__html">
-
+<h2><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
 <table>
 
 <thead>
