@@ -1,6 +1,6 @@
 {
     "layout_style": "grid",
-    "palette": "black",
+    "palette": "red",
     "header": {
         "title": "Lex",
         "logo_img": "images/lex-circle.png",
