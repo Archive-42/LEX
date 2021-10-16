@@ -4,28 +4,28 @@
     "header": {
         "title": "Ampersand",
         "logo_img": "images/lex-circle.png",
-        "logo_img_alt": "Ampersand Logo",
+        "logo_img_alt": "lex favicon",
         "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
                 "url": "/",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
+                "style": "primary"
             },
             {
-                "label": "Style Guide",
+                "label": "Events",
                 "url": "/style-guide",
-                "style": "link"
+                "style": "primary"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Services",
                 "url": "#",
-                "style": "link",
+                "style": "primary",
                 "icon_class": "dev",
                 "new_window": false,
                 "no_follow": false
@@ -42,6 +42,14 @@
                 "label": "Contact",
                 "url": "/contact",
                 "style": "link"
+            },
+            {
+                "label": "Music",
+                "url": "#",
+                "style": "primary",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
