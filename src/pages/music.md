@@ -13,10 +13,7 @@ template: page
 
 <h2><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
 <p>Videos of Alex</p>
-<p>Alex's Videos</p>
-<p>More</p><a href="https://www.facebook.com/thatricanmc/videos_of">
-<p>Videos of Alex</p></a> <a href="https://www.facebook.com/thatricanmc/videos_by">
-<p>Alex's Videos</p></a>
+
 <p><a href="https://www.facebook.com/thatricanmc/videos/10157226703519353/"><img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/p206x206/75559227_10157226703934353_4423490386991775744_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=Zy7B2HRo9CoAX-Hfip0&amp;_nc_oc=AQmxSjwCmlqJOaRPCNgug-WH9aoyl34mQUPH-NgkK_w9YQ5BG_aZuyVYpnPc9HwLzVc&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=45b0dbcb4348540b0e7cb8e0f760484b&amp;oe=616F7CCE">
 <p>0:08</p></a></p>
 <p><a href="https://www.facebook.com/thatricanmc/videos/10157224037814353/"><img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/p206x206/83376112_10157224038159353_637963455621496832_n.jpg?_nc_cat=110&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=2d7_ZeSeFQkAX8-BsQG&amp;tn=SgMLChnJZztjJAsx&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=cea3c0e07fb35c6f9e2ca37de8b09707&amp;oe=616F5B96">
