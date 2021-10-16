@@ -2,7 +2,7 @@
     "layout_style": "grid",
     "palette": "black",
     "header": {
-        "title": "Ampersand",
+        "title": "Lex",
         "logo_img": "images/lex-circle.png",
         "logo_img_alt": "lex favicon",
         "has_nav": true,
