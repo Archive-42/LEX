@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: BC Studios
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
