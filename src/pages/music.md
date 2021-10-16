@@ -12,7 +12,7 @@ template: page
 ## Lorem ipsum
 
 <h2><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
-<h1>Videos of Alex</p>
+<h1>Videos of Alex</h1>
 
 <p><a href="https://www.facebook.com/thatricanmc/videos/10157226703519353/"><img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/p206x206/75559227_10157226703934353_4423490386991775744_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=Zy7B2HRo9CoAX-Hfip0&amp;_nc_oc=AQmxSjwCmlqJOaRPCNgug-WH9aoyl34mQUPH-NgkK_w9YQ5BG_aZuyVYpnPc9HwLzVc&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=45b0dbcb4348540b0e7cb8e0f760484b&amp;oe=616F7CCE">
 <p>0:08</p></a></p>
