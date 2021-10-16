@@ -9,7 +9,7 @@ seo:
   extra: []
 template: page
 ---
-## Lorem ipsum
+##
 
 
 
