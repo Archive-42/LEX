@@ -2,7 +2,7 @@
     "layout_style": "grid",
     "palette": "black",
     "header": {
-        "title": "Ampersand",
+        "title": "Lex",
         "logo_img": "images/lex-circle.png",
         "logo_img_alt": "lex favicon",
         "has_nav": true,
@@ -96,7 +96,17 @@
         "has_subscribe": true,
         "subscribe_title": "Subscribe for new updates",
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
-        "subscribe_action": "/subscribe-success"
+        "subscribe_action": "/subscribe-success",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "title": "Stackbit Ampersand Theme",
     "domain": "https://unique-bee-a3cba.netlify.app",
