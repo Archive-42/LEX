@@ -1,32 +1,32 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+img_path: images/lex-final.png
 img_alt: A man standing on a rock outside the cave
 seo:
   title: About Me
   description: This is the about me page
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: About Me
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: This is the about me page
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: About Me
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: This is the about me page
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
 template: page
