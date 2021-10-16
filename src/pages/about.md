@@ -37,6 +37,11 @@ template: page
 
 
 
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details>
 
 
 [![](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.6435-1/p240x240/69349040_2371905206212379_8244558877111091200_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=de63ab&_nc_ohc=F_j9jf7lMf0AX9k2dv5&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-5.fna&oh=b06ae150ec0f11174065aeb72154e64e&oe=618F116D)**The Solo Show**](https://www.facebook.com/TheSoloShow/)
