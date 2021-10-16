@@ -14,15 +14,216 @@ template: page
 <h2><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
 
 
-<h1>Videos of Alex</h1>
+<h1>Videos of Alex</h1><div class="stackedit__html">
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| <p> <a href="https://www.facebook.com/thatricanmc/videos/10157224037814353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/p206x206/83376112_10157224038159353_637963455621496832_n.jpg?_nc_cat=110&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=2d7_ZeSeFQkAX8-BsQG&amp;tn=SgMLChnJZztjJAsx&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=cea3c0e07fb35c6f9e2ca37de8b09707&amp;oe=616F5B96"> <p>1:00</h5> </a> </p> | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156071690434353/"> <img alt="View Photo" src="https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/42926762_10156071691609353_3996043336044511232_n.jpg?_nc_cat=109&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=UxzkwZEOwVUAX_-Zbte&amp;tn=SgMLChnJZztjJAsx&amp;_nc_ht=scontent.fewr1-6.fna&amp;oh=4dfb8d463d9f6de522cd48d8db6a7376&amp;oe=616F99FD"> <p>1:00</h5> </a> </p> | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156233219644353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/p206x206/49903248_10156233219904353_4437821962714087424_n.jpg?_nc_cat=111&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=2EVCeHcdrPYAX9zqx9Z&amp;tn=SgMLChnJZztjJAsx&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=a0878d7a18ac3eda74fe29f14f64ba6e&amp;oe=6170C30B"> <h5>0:59</h5> </a> </p>                                                                      | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156456683734353/"> <img alt="View Photo" src="https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/56587490_10156456683994353_48627044199694336_n.jpg?_nc_cat=109&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=0iqn1cyruRwAX_nbNtF&amp;_nc_ht=scontent.fewr1-6.fna&amp;oh=573f089ef94f10c7435abfd2a356acbb&amp;oe=616FB808"> <p>1:01</h5> </a> </p>    |
-| <p> <a href="https://www.facebook.com/thatricanmc/videos/10157176488234353/"> <img alt="View Photo" src="https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/83895559_10157176492914353_6299263030773415936_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=mpT74SYpIJMAX_tG53e&amp;_nc_ht=scontent.fewr1-6.fna&amp;oh=97c41888e507a2faed0e2f2f50f01433&amp;oe=616F498C"> <p>3:25</h5> </a> </p>         | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156065571709353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/42820348_10156065572344353_2428491688751136768_n.jpg?_nc_cat=107&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=iRpXkvl6pQEAX8XKsae&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=e4057118a275beac3e8f54df0b9d658b&amp;oe=616FBF5C"> <h5>0:59</h5> </a> </p>                        | <p> <a href="https://www.facebook.com/thatricanmc/videos/2364891443742840/"> <img alt="Friendversary Video with Julie" src="https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/49820667_2362622727303045_1710959394126036992_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=3v1SPFXRcr0AX9OCOfS&amp;tn=SgMLChnJZztjJAsx&amp;_nc_ht=scontent.fewr1-6.fna&amp;oh=902e4d38f59be40a231a15bc7f20a18e&amp;oe=61702A39"> <h5>0:14</h5> </a> </p>                                                    | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156452403014353/"> <img alt="View Photo" src="https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/58407795_10156452403394353_5702206540191105024_n.jpg?_nc_cat=109&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=fn7yLPBLxdEAX9RJSgK&amp;_nc_ht=scontent.fewr1-6.fna&amp;oh=f6817b47b60b4b246d2fb9bca91d55b0&amp;oe=616F4BBD"> <p>1:01</h5> </a> </p>  |
-| <p> <a href="https://www.facebook.com/thatricanmc/videos/10157136973539353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/75430336_10157136987964353_1020973404829777920_n.jpg?_nc_cat=104&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=0koFARXGel4AX9iNOLU&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=f24a7e1ec8c716820f832126abf4c84f&amp;oe=616FE23C"> <p>14:19</h5> </a> </p>        | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156065503709353/"> <img alt="View Photo" src="https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43012507_10156065504139353_2666138937977733120_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=4GXAlXu48kAAX9S9HIG&amp;_nc_ht=scontent.fewr1-6.fna&amp;oh=882879c2eda5f0d56c0bb3964080e7ce&amp;oe=61707F5F"> <p>1:01</h5> </a> </p>                         | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156082316959353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43784624_10156082317434353_8748985636221878272_n.jpg?_nc_cat=111&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=GXFRmCAP_SkAX9zGEc7&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=05c6a50a9716d5d8fdf5d6b8cd6edcab&amp;oe=616F9E13"> <p>1:01</h5> </a> </p>                                                                                | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156422029529353/"> <img alt="View Photo" src="https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/56319278_10156422030154353_6152479422466228224_n.jpg?_nc_cat=102&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=g1g_zhR9XYgAX-oOHLk&amp;_nc_ht=scontent.fewr1-6.fna&amp;oh=406b9906bfaa6e90aae22b092597d2c1&amp;oe=616FC4E3"> <h5>0:49</h5> </a> </p> |
-| <p> <a href="https://www.facebook.com/thatricanmc/videos/10157101527579353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/75234380_10157101528514353_3290231148176736256_n.jpg?_nc_cat=104&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=Phu8J9fiHsIAX_gREzE&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=0cc07504473925d343f85ff542d04b13&amp;oe=616FDB32"> <h5>0:56</h5> </a> </p>        | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156061373744353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43190132_10156061373964353_343068625961222144_n.jpg?_nc_cat=110&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=tvXlKDtX3oMAX_QvdeD&amp;tn=SgMLChnJZztjJAsx&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=53f2484b1ce10f03a126c3cc4714c51c&amp;oe=616FDBB0"> <h5>0:50</h5> </a> </p> | <p> <a href="https://www.facebook.com/thatricanmc/videos/10156078102609353/"> <img alt="View Photo" src="https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43270982_10156078103274353_6586603459636625408_n.jpg?_nc_cat=104&amp;ccb=1-5&amp;_nc_sid=08638f&amp;_nc_ohc=eVl1C_e38pMAX_36ucO&amp;_nc_oc=AQmZLRGc0pbMBSOZbYtzHFvn5jLZ1GK2GiNi0jgLZFXK3ZYPRTduWWFwX3H11P8Xgxs&amp;_nc_ht=scontent.fewr1-5.fna&amp;oh=146dd9fe8e047f1192c6604ec256b6d5&amp;oe=616FBF2B"> <p>1:00</h5> </a> </p> | [![](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.18169-1/c0.0.240.240a/p240x240/10309039_812607548768773_8571325839022852275_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=de63ab&_nc_ohc=lqLBEzAJxfEAX-8rcKA&_nc_ht=scontent.fewr1-5.fna&oh=648227e3e562bab41ec6381c7ce8244e&oe=61914874)**Monster**](https://www.facebook.com/thisismonsterart/)                                                                                   |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                                          |
+<table>
+
+<thead>
+
+<tr>
+
+<th></th>
+
+<th></th>
+
+<th></th>
+
+<th></th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/p206x206/83376112_10157224038159353_637963455621496832_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=08638f&_nc_ohc=2d7_ZeSeFQkAX8-BsQG&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-5.fna&oh=cea3c0e07fb35c6f9e2ca37de8b09707&oe=616F5B96)](https://www.facebook.com/thatricanmc/videos/10157224037814353/)
+
+1:00
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/42926762_10156071691609353_3996043336044511232_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=08638f&_nc_ohc=UxzkwZEOwVUAX_-Zbte&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-6.fna&oh=4dfb8d463d9f6de522cd48d8db6a7376&oe=616F99FD)](https://www.facebook.com/thatricanmc/videos/10156071690434353/)
+
+1:00
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/p206x206/49903248_10156233219904353_4437821962714087424_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=08638f&_nc_ohc=2EVCeHcdrPYAX9zqx9Z&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-5.fna&oh=a0878d7a18ac3eda74fe29f14f64ba6e&oe=6170C30B)](https://www.facebook.com/thatricanmc/videos/10156233219644353/)
+
+##### 0:59
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/56587490_10156456683994353_48627044199694336_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=08638f&_nc_ohc=0iqn1cyruRwAX_nbNtF&_nc_ht=scontent.fewr1-6.fna&oh=573f089ef94f10c7435abfd2a356acbb&oe=616FB808)](https://www.facebook.com/thatricanmc/videos/10156456683734353/)
+
+1:01
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/83895559_10157176492914353_6299263030773415936_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=08638f&_nc_ohc=mpT74SYpIJMAX_tG53e&_nc_ht=scontent.fewr1-6.fna&oh=97c41888e507a2faed0e2f2f50f01433&oe=616F498C)](https://www.facebook.com/thatricanmc/videos/10157176488234353/)
+
+3:25
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/42820348_10156065572344353_2428491688751136768_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=08638f&_nc_ohc=iRpXkvl6pQEAX8XKsae&_nc_ht=scontent.fewr1-5.fna&oh=e4057118a275beac3e8f54df0b9d658b&oe=616FBF5C)](https://www.facebook.com/thatricanmc/videos/10156065571709353/)
+
+##### 0:59
+
+</td>
+
+<td>
+
+[![Friendversary Video with Julie](https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/49820667_2362622727303045_1710959394126036992_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=08638f&_nc_ohc=3v1SPFXRcr0AX9OCOfS&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-6.fna&oh=902e4d38f59be40a231a15bc7f20a18e&oe=61702A39)](https://www.facebook.com/thatricanmc/videos/2364891443742840/)
+
+##### 0:14
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/58407795_10156452403394353_5702206540191105024_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=08638f&_nc_ohc=fn7yLPBLxdEAX9RJSgK&_nc_ht=scontent.fewr1-6.fna&oh=f6817b47b60b4b246d2fb9bca91d55b0&oe=616F4BBD)](https://www.facebook.com/thatricanmc/videos/10156452403014353/)
+
+1:01
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/75430336_10157136987964353_1020973404829777920_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=08638f&_nc_ohc=0koFARXGel4AX9iNOLU&_nc_ht=scontent.fewr1-5.fna&oh=f24a7e1ec8c716820f832126abf4c84f&oe=616FE23C)](https://www.facebook.com/thatricanmc/videos/10157136973539353/)
+
+14:19
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43012507_10156065504139353_2666138937977733120_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=08638f&_nc_ohc=4GXAlXu48kAAX9S9HIG&_nc_ht=scontent.fewr1-6.fna&oh=882879c2eda5f0d56c0bb3964080e7ce&oe=61707F5F)](https://www.facebook.com/thatricanmc/videos/10156065503709353/)
+
+1:01
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43784624_10156082317434353_8748985636221878272_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=08638f&_nc_ohc=GXFRmCAP_SkAX9zGEc7&_nc_ht=scontent.fewr1-5.fna&oh=05c6a50a9716d5d8fdf5d6b8cd6edcab&oe=616F9E13)](https://www.facebook.com/thatricanmc/videos/10156082316959353/)
+
+1:01
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-6.fna.fbcdn.net/v/t15.5256-10/p206x206/56319278_10156422030154353_6152479422466228224_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=08638f&_nc_ohc=g1g_zhR9XYgAX-oOHLk&_nc_ht=scontent.fewr1-6.fna&oh=406b9906bfaa6e90aae22b092597d2c1&oe=616FC4E3)](https://www.facebook.com/thatricanmc/videos/10156422029529353/)
+
+##### 0:49
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/75234380_10157101528514353_3290231148176736256_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=08638f&_nc_ohc=Phu8J9fiHsIAX_gREzE&_nc_ht=scontent.fewr1-5.fna&oh=0cc07504473925d343f85ff542d04b13&oe=616FDB32)](https://www.facebook.com/thatricanmc/videos/10157101527579353/)
+
+##### 0:56
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43190132_10156061373964353_343068625961222144_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=08638f&_nc_ohc=tvXlKDtX3oMAX_QvdeD&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-5.fna&oh=53f2484b1ce10f03a126c3cc4714c51c&oe=616FDBB0)](https://www.facebook.com/thatricanmc/videos/10156061373744353/)
+
+##### 0:50
+
+</td>
+
+<td>
+
+[![View Photo](https://scontent.fewr1-5.fna.fbcdn.net/v/t15.5256-10/c80.0.206.206a/p206x206/43270982_10156078103274353_6586603459636625408_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=08638f&_nc_ohc=eVl1C_e38pMAX_36ucO&_nc_oc=AQmZLRGc0pbMBSOZbYtzHFvn5jLZ1GK2GiNi0jgLZFXK3ZYPRTduWWFwX3H11P8Xgxs&_nc_ht=scontent.fewr1-5.fna&oh=146dd9fe8e047f1192c6604ec256b6d5&oe=616FBF2B)](https://www.facebook.com/thatricanmc/videos/10156078102609353/)
+
+1:00
+
+</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+<td></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
