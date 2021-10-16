@@ -38,7 +38,7 @@ template: page
 
 
 <details open>
-<summary>Want to ruin the surprise?</summary>
+<summary>Here's All The Things Facebook Thinks I Like!</summary>
 
 
 
