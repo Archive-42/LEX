@@ -34,7 +34,37 @@ template: page
 
 # Likes
 
+>![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/M0Wls5DHC-A.png)
 
+Session Master at [BC MUSIC](https://www.facebook.com/BCmusic247/)
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/M0Wls5DHC-A.png)
+
+Manager at [Factory Studios](https://www.facebook.com/factorystudioproduction/)
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/M0Wls5DHC-A.png)
+
+Vocalist / Songwriter at [Zurrendah](https://www.facebook.com/Zurrendah/)
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/id4jdGYPaIP.png)
+
+Studied at Passaic County Community College
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/id4jdGYPaIP.png)
+
+Went to Panther Academy
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/1sW88456A0B.png)
+
+Lives in [Paterson, New Jersey](https://www.facebook.com/Paterson-New-Jersey-108528445838668/)
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/ym/r/N_tq7yNW9DG.png)
+
+From [Arecibo, Puerto Rico](https://www.facebook.com/Arecibo-Puerto-Rico-112467972099678/)
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/JanwljMyOww.png)
+
+Followed by [271 people](https://www.facebook.com/thatricanmc/followers)
 
 | [![](https://scontent.fewr1-6.fna.fbcdn.net/v/t1.18169-1/c12.12.156.156a/16393_428552123886685_1389453470_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=de63ab&_nc_ohc=Jb7k5cfezHYAX-pgGrQ&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-6.fna&oh=774a391002c2e2a728a623ce7319f9a0&oe=6190EEBE)**Earthgrinders**](https://www.facebook.com/Earthgrinders/)                        | [![](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.6435-1/p240x240/37757612_1759908080772358_4777358570779836416_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=de63ab&_nc_ohc=hElf8ZL_Z1sAX_VrjRk&tn=SgMLChnJZztjJAsx&_nc_ht=scontent.fewr1-5.fna&oh=4f261498199a0bf8480aa503ccae5f72&oe=619060B3)**Dose Me Publishing**](https://www.facebook.com/dosemepublishing/)                                                                                                                                                                                                                                                                                                                                              | [![](https://scontent.fewr1-6.fna.fbcdn.net/v/t1.18169-1/p240x240/1451413_625206080930073_2662430267926937403_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=de63ab&_nc_ohc=DFNV-5dJHRAAX-UUaVv&_nc_ht=scontent.fewr1-6.fna&oh=68a541e2b85c720e2e33fe697fb352ad&oe=618F1566)**Paterson Social Circle**](https://www.facebook.com/patersonpartiers/)                                    | [![](https://scontent.fewr1-6.fna.fbcdn.net/v/t1.6435-1/c67.0.240.240a/p240x240/65629277_718959598535174_4046574717203644416_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=de63ab&_nc_ohc=DjaYs_DImJMAX-RFf7T&_nc_ht=scontent.fewr1-6.fna&oh=e43bfe6e9cae1a22f854ae072d2ab219&oe=618FFFD8)**New Jersey Music Scene**](https://www.facebook.com/newjerseymusicscene/)                                                                                |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
