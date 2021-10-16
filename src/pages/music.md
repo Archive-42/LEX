@@ -15,7 +15,7 @@ template: page
 
 
 <h1>Videos of Alex</h1><div class="stackedit__html">
-<h2><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
+<h4><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
 <table>
 
 <thead>
