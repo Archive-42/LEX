@@ -9,26 +9,21 @@ seo:
   extra: []
 template: page
 ---
-## Lorem ipsum
+## Music
 
-<h2><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h2>
+
 
 
 <h1>Videos of Alex</h1><div class="stackedit__html">
+<center>
+<h4 style="color:blue;font-weight:bold;"><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h4>
 
+</center>
 <table>
 
 <thead>
 
 <tr>
-
-<th></th>
-
-<th></th>
-
-<th></th>
-
-<th></th>
 
 </tr>
 
@@ -38,13 +33,6 @@ template: page
 
 <tr>
 
-<td></td>
-
-<td></td>
-
-<td></td>
-
-<td></td>
 
 </tr>
 
@@ -188,37 +176,15 @@ template: page
 
 <tr>
 
-<td></td>
+</tr>
 
-<td></td>
+<tr>
 
-<td></td>
-
-<td></td>
 
 </tr>
 
 <tr>
 
-<td></td>
-
-<td></td>
-
-<td></td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td></td>
-
-<td></td>
-
-<td></td>
-
-<td></td>
 
 </tr>
 
