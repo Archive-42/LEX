@@ -9,9 +9,6 @@ seo:
   extra: []
 template: page
 ---
-## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b982706f-1bed-483d-9a26-d2046551aec4/deploy-status)](https://app.netlify.com/sites/lex-thatricanmc/deploys)
