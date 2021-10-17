@@ -11,6 +11,129 @@ template: page
 
 # Studio
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d96609.60623995701!2d-74.16309132136905!3d40.826861122016425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d40.7502146!2d-74.01826059999999!4m3!3m2!1d40.87486!2d-74.13526!5e0!3m2!1sen!2sus!4v1634445216985!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+## Events:
+
+
+
+
+---
+
+## Past Events:
+
+
+Past Events
+-----------
+
+
+
+[![No photo description available.](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.6435-9/p75x225/61938077_2317439524978764_8498814584482693120_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=340051&_nc_ohc=NVWYtuBZdpYAX-iJWGR&_nc_ht=scontent.fewr1-5.fna&oh=3e6c52285b5e63086326007126d10f1d&oe=618F6FAB)](https://www.facebook.com/events/2166488380115021/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+SUN, JUN 9, 2019
+
+[> BC MUSIC SUNDAY SERVICE/OPEN JAM 6/9/19](https://www.facebook.com/events/2166488380115021/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - > BC MUSIC
+
+
+
+[![No photo description available.](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.18169-9/s206x206/1531942_639807946075272_72596812_n.png?_nc_cat=106&ccb=1-5&_nc_sid=a610ef&_nc_ohc=4OTME12KVWEAX_jMo0K&_nc_ht=scontent.fewr1-5.fna&oh=b64c6867e1ee3463977e010656969c8f&oe=618F6937)](https://www.facebook.com/events/424936274301779/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, JAN 24, 2014
+
+[Winter Metal Land II - ### FRIday Jan 24th](https://www.facebook.com/events/424936274301779/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - Ivanhoe Artists Mosaic
+
+
+
+[![May be an image of 1 person](https://scontent.fewr1-6.fna.fbcdn.net/v/t1.18169-9/s206x206/553161_626916140697786_1691021215_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=340051&_nc_ohc=fnCHpp_MQJcAX8ISszE&_nc_ht=scontent.fewr1-6.fna&oh=f8261353ffd7e3030bfd11835aa52f36&oe=6191D787)](https://www.facebook.com/events/1401573640084443/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, DEC 20, 2013
+
+[Autumn Air @ the Ivanhoe](https://www.facebook.com/events/1401573640084443/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - Ivanhoe Artists Mosaic Inc
+
+
+
+[![No photo description available.](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.18169-9/s206x206/1470060_623475144375219_1094018422_n.png?_nc_cat=104&ccb=1-5&_nc_sid=340051&_nc_ohc=ZSEXd5W4rrcAX-OB2yG&_nc_ht=scontent.fewr1-5.fna&oh=b9e508c0832f877365a46c9cf6027678&oe=61904D0B)](https://www.facebook.com/events/1424199954477411/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, DEC 13, 2013
+
+[(almost)WINTER METAL LAND](https://www.facebook.com/events/1424199954477411/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC
+
+
+
+[![No photo description available.](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.6435-9/s206x206/37423008_1857467257642662_3560001780660043776_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=340051&_nc_ohc=hqsG76JVXdIAX-JKnUt&_nc_ht=scontent.fewr1-5.fna&oh=3fe67c8de1d38921cdadf23462877f63&oe=618F435A)](https://www.facebook.com/events/624149797627304/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, NOV 15, 2013
+
+[Autumn Air @ the Ivanhoe](https://www.facebook.com/events/624149797627304/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - Ivanhoe Artists Mosaic Inc
+
+
+
+[![No photo description available.](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.6435-9/s206x206/37419689_1857257924330262_6139319565361872896_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=340051&_nc_ohc=TwBF02GGxhkAX_YTPNn&_nc_ht=scontent.fewr1-5.fna&oh=268adcf6ef0da1aedbe3e5b041da312d&oe=619294C3)](https://www.facebook.com/events/473020899463113/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, OCT 11, 2013
+
+[Autumn Air @ THE IVANHOE](https://www.facebook.com/events/473020899463113/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - Ivanhoe Artists Mosaic Inc
+
+
+
+[![No photo description available.](https://scontent.fewr1-5.fna.fbcdn.net/v/t1.6435-9/p75x225/37402448_1857409244315130_8020931522125103104_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=340051&_nc_ohc=B9CE7jBeDQ4AX-9bwk0&_nc_ht=scontent.fewr1-5.fna&oh=0a11ae90e777c4958ebd3b321645dea8&oe=6193281A)](https://www.facebook.com/events/221284881354923/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, AUG 16, 2013
+
+[BANDS & BBQ @ THE IVANHOE](https://www.facebook.com/events/221284881354923/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - Ivanhoe Artists Mosaic Inc
+
+[](https://www.facebook.com/events/691806770834498/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, JUL 26, 2013
+
+[BANDS & BBQ @ THE IVANHOE](https://www.facebook.com/events/691806770834498/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - Ivanhoe Artists Mosaic Inc
+
+
+
+[![No photo description available.](https://scontent.fewr1-5.fna.fbcdn.net/v/t31.18172-8/p75x225/977071_535495736506494_2082608102_o.png?_nc_cat=105&ccb=1-5&_nc_sid=340051&_nc_ohc=GiK-LjK0WjUAX9w1crr&_nc_ht=scontent.fewr1-5.fna&oh=a8498fe527f7e5a271b388342d0879cb&oe=618FD125)](https://www.facebook.com/events/276241415855361/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+### FRI, JUN 14, 2013
+
+[BANDS & BBQ @ THE IVANHOE](https://www.facebook.com/events/276241415855361/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - Ivanhoe Artists Mosaic Inc
+
+[](https://www.facebook.com/events/305566602906008/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+THU, MAR 28, 2013
+
+[Acoustic Vibes @ Botany Village Bar & Grill](https://www.facebook.com/events/305566602906008/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - 97 Ackerman Ave, Clifton, NJ
+
+[](https://www.facebook.com/events/427183737372429/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+THU, MAR 21, 2013
+
+[Acoustic Vibes @ Botany Village Bar & Grill](https://www.facebook.com/events/427183737372429/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D)
+
+> BC MUSIC - 97 Ackerman Ave, Clifton
+
+
+---
+
+
 <table>
 
 <thead>
