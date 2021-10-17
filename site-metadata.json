@@ -45,7 +45,7 @@
             },
             {
                 "label": "Music",
-                "url": "#",
+                "url": "music",
                 "style": "primary",
                 "icon_class": "dev",
                 "new_window": false,
