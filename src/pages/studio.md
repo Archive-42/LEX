@@ -12,20 +12,7 @@ template: page
 
 \<center>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d96609.60623995701!2d-74.16309132136905!3d40.826861122016425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d40.7502146!2d-74.01826059999999!4m3!3m2!1d40.87486!2d-74.13526!5e0!3m2!1sen!2sus!4v1634445216985!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-
-
-</center>
-
-
-
-
-
-
-
-
-
+<!--Dayspedia.com widget--><iframe width='363' height='252' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjp0cnVlLCJ3LTExIjp0cnVlLCJ3LTEzIjp0cnVlLCJ3LTE0IjpmYWxzZSwidy0xNSI6dHJ1ZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOmZhbHNlLCJ3LXdpZHRoLTEiOnRydWUsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiI0OHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjI0Iiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MTMsImJnaW1hZ2VTZXQiOnRydWUsInctMjFjMCI6IiNmZmZmZmYiLCJ3LTAiOnRydWUsInctMyI6dHJ1ZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiI0Iiwidy02IjoiIzM0MzQzNCIsInctMjAiOnRydWUsInctNCI6IiMwMDdkYmYiLCJ3LTE4Ijp0cnVlLCJ3LXdpZHRoLTJjLTAiOiIzMDAifQ==&lang=en&cityid=54452'></iframe><!--Dayspedia.com widget ENDS-->
 
 
 ## Events:
