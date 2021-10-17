@@ -1,5 +1,5 @@
 ---
-title: BC Studios
+title: "BC Studios \U0001F399"
 img_alt: lorem-ipsum
 seo:
   title: ''
