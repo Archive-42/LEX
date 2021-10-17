@@ -12,9 +12,21 @@ template: page
 
 \<center>
 
-
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d96609.60623995701!2d-74.16309132136905!3d40.826861122016425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d40.7502146!2d-74.01826059999999!4m3!3m2!1d40.87486!2d-74.13526!5e0!3m2!1sen!2sus!4v1634445216985!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+</center>
+
+
+
+
+
+
+
+
+
+
 
 ## Events:
 
@@ -290,15 +302,7 @@ THU, MAR 21, 2013
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBCmusic247%2Fabout&tabs=timeline&width=650&height=800&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=448469606483680" width="650" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-
-
-
-
-</center<
-
-
-
-
+\</center<
 
 All Photos
 
