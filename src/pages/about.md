@@ -4,7 +4,7 @@ subtitle: >-
   Go to mclexxx.bandcamp.com to check out my music. If you like what you hear,
   download my entire mixtape for FREE!! I don't want your money. I just want to
   live in your ipod/mp3 player =)
-img_path: images/lex-final.png
+img_path: images/lex-big-image_35.png
 img_alt: A man standing on a rock outside the cave
 seo:
   title: About Me
