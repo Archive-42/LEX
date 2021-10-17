@@ -22,7 +22,13 @@ template: page
 
 <h1>Videos of Alex</h1><div class="stackedit__html">
 <center>
-<h4 style="color:blue;font-weight:bold;"><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h4>
+<h4 style="color:blue;font-weight:bold;"><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h4>]
+
+
+
+
+
+
 
 </center>
 
