@@ -1,5 +1,5 @@
 ---
-title: "BC Studios \U0001F399"
+title: BC Studios
 img_alt: lorem-ipsum
 seo:
   title: ''
@@ -8,51 +8,78 @@ seo:
   extra: []
 template: page
 ---
-# Studio
+# BC Music LLC
 
-\<center>
+<center>
 
 <!--Dayspedia.com widget-->
 
 <iframe width='363' height='252' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjp0cnVlLCJ3LTExIjp0cnVlLCJ3LTEzIjp0cnVlLCJ3LTE0IjpmYWxzZSwidy0xNSI6dHJ1ZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOmZhbHNlLCJ3LXdpZHRoLTEiOnRydWUsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiI0OHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjI0Iiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MTMsImJnaW1hZ2VTZXQiOnRydWUsInctMjFjMCI6IiNmZmZmZmYiLCJ3LTAiOnRydWUsInctMyI6dHJ1ZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiI0Iiwidy02IjoiIzM0MzQzNCIsInctMjAiOnRydWUsInctNCI6IiMwMDdkYmYiLCJ3LTE4Ijp0cnVlLCJ3LXdpZHRoLTJjLTAiOiIzMDAifQ==&lang=en&cityid=54452'></iframe>
 
+
 <!--Dayspedia.com widget ENDS-->
 
 
 
+[Arts & Entertainment](https://www.facebook.com/search/?bqf=str%2FArts%2B%2526%2BEntertainment%2Fkeywords_pages&ref=page_about_category&f=AbrZa3ui1f4SGFiPjQXj-x4mPnKzr2mW24BY8rvK_1BhY8J4qSrO-ASmEHrZhqXtewfNOo4SxYCSuh9C1g3uMPsltH5ub5nB2pViN3SckrwgaAqq1uTbvkFcXv2WATDQIFsHVusapqnZIZRXyqZt6HwP)
+
+#### HOURS   ⇒⇒⇒⇒⇒⇒    Always Open   
+
+## BUSINESS DETAILS
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d96599.04992966214!2d-74.16309132113471!3d40.83410667123143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d40.7699456!2d-74.0163584!4m3!3m2!1d40.87486!2d-74.13526!5e0!3m2!1sen!2sus!4v1634450437768!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+### ADDITIONAL CONTACT INFO
+
+[http://bcmusicllc.com/](http://bcmusicllc.com/?fbclid=IwAR0c3X_H23nvmxUwjlKh815h4ekZY9YH3bSXl8Ni3v9iscmy8f6gEmfRvtE)
+
+(201) 364-2867
+
+<bcausemusic@gmail.com>
+
+Send Message
+
+MORE INFO
+
+About
 
 
 
+Music Rehearsal Production
+
+**Please book session 24 hours in advance. Thank you.**
+
+## Additional Information
+
+> Email: BCauseMusic@Gmail.com
+
+> Drexlermusic@Gmail.com
+
+> Omarparadiddlemusic@Gmail.com
+
+> JimmyBCMusic@Gmail.com
+
+Music is why we live.
+
+It is why we decided not to fall in line with everyone else by playing it safe and trapping ourselves in a secured lifestyle.
+
+We choose this uncertain path because we are the risk takers and the voice.
+
+-drexler
 
 
 
+![](images/chrome_xfVIOT89KH.png)
 
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBCmusic247%2Fabout&tabs=timeline&width=650&height=800&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=448469606483680" width="650" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-
-
-## Info:
-
-
-
-
-
-
-
-
-
-
-
+</center>
 
 
 ## Events:
 
-***
 
-***
-
-***
-
-##
 
 ## Past Events
 
@@ -318,11 +345,7 @@ THU, MAR 21, 2013
 
 </div>
 
-![](images/chrome_xfVIOT89KH.png)
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBCmusic247%2Fabout&tabs=timeline&width=650&height=800&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=448469606483680" width="650" height="800" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-\</center<
 
 All Photos
 
