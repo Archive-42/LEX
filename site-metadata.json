@@ -8,22 +8,22 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Home⌂",
                 "url": "/",
                 "style": "primary"
             },
             {
-                "label": "About",
+                "label": "About📚",
                 "url": "/about",
                 "style": "primary"
             },
             {
-                "label": "Events",
+                "label": "Events🎪",
                 "url": "/style-guide",
                 "style": "primary"
             },
             {
-                "label": "Services",
+                "label": "Services⚒",
                 "url": "#",
                 "style": "primary",
                 "icon_class": "dev",
@@ -31,7 +31,7 @@
                 "no_follow": false
             },
             {
-                "label": "Studio",
+                "label": "Studio🎹 🎘 🎚 🎛",
                 "url": "studio",
                 "style": "primary",
                 "icon_class": "dev",
@@ -39,12 +39,12 @@
                 "no_follow": false
             },
             {
-                "label": "Contact",
+                "label": "Contact☎",
                 "url": "/contact",
                 "style": "primary"
             },
             {
-                "label": "Music",
+                "label": "Music🎧",
                 "url": "music",
                 "style": "primary",
                 "icon_class": "dev",
@@ -52,7 +52,7 @@
                 "no_follow": false
             },
             {
-                "label": "Photography ",
+                "label": "Photography📷",
                 "url": "#",
                 "style": "primary",
                 "icon_class": "dev",

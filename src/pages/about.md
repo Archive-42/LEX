@@ -36,7 +36,7 @@ template: page
 ---
 # About Me
 
-<video class="k4urcfbm datstx6m a8c37x1j" playsinline="" src="https://video.fewr1-5.fna.fbcdn.net/v/t42.1790-2/12125441_1505869629725441_531737523_n.mp4?_nc_cat=106&amp;ccb=1-5&amp;_nc_sid=985c63&amp;efg=eyJybHIiOjQwMSwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic2QifQ%3D%3D&amp;_nc_ohc=RQjUo7wNVpcAX84fZ4u&amp;rl=401&amp;vabr=223&amp;_nc_ht=video.fewr1-5.fna&amp;oh=4d408e3c374a17d53f8aa9600a02a67e&amp;oe=616B6235"></video>
+
 
 ![](https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/M0Wls5DHC-A.png)
 
