@@ -16,36 +16,35 @@ intro_actions:
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Stackbit Ampersand Theme
-  description: The preview of the Ampersand theme
+  title: Lexwebsite
+  description: The preview of the website
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
-      value: Stackbit Ampersand Theme
+    - name: 'og:title'
+      value: Lexwebsite
       keyName: property
-    - name: "og:description"
-      value: The preview of the Ampersand theme
+    - name: 'og:description'
+      value: The preview of the website
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/ampersand-preview.png
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
-      value: Stackbit Ampersand Theme
-    - name: "twitter:description"
-      value: The preview of the Ampersand theme
-    - name: "twitter:image"
+    - name: 'twitter:title'
+      value: Lexwebsite
+    - name: 'twitter:description'
+      value: The preview of the website
+    - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
 template: home
 ---
 
-<!--Dayspedia.com widget-->
-<iframe width='363' height='252' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjp0cnVlLCJ3LTExIjp0cnVlLCJ3LTEzIjp0cnVlLCJ3LTE0IjpmYWxzZSwidy0xNSI6dHJ1ZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOmZhbHNlLCJ3LXdpZHRoLTEiOnRydWUsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiI0OHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjI0Iiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MTMsImJnaW1hZ2VTZXQiOnRydWUsInctMjFjMCI6IiNmZmZmZmYiLCJ3LTAiOnRydWUsInctMyI6dHJ1ZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiI0Iiwidy02IjoiIzM0MzQzNCIsInctMjAiOnRydWUsInctNCI6IiMwMDdkYmYiLCJ3LTE4Ijp0cnVlLCJ3LXdpZHRoLTJjLTAiOiIzMDAifQ==&lang=en&cityid=54452'></iframe>
-<!--Dayspedia.com widget ENDS-->
 
-<a class="twitter-timeline" href="https://twitter.com/mclexxx973?ref_src=twsrc%5Etfw">Tweets by mclexxx973</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d96609.41700136696!2d-74.16309089004756!3d40.826991019302575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d40.7502146!2d-74.01826059999999!4m3!3m2!1d40.87486!2d-74.13526!5e0!3m2!1sen!2sus!4v1634446990673!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
