@@ -3,12 +3,13 @@ title: Videos of Alex
 subtitle: "\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9\U0001F3B9"
 img_alt: lorem-ipsum
 seo:
-  title: ''
-  description: ''
+  title: ""
+  description: ""
   robots: []
   extra: []
 template: page
 ---
+
 ## Music
 
 <br>
@@ -19,20 +20,10 @@ template: page
 <br>
 <br>
 
-
 <h1>Videos of Alex</h1><div class="stackedit__html">
 <center>
 <h4 style="color:blue;font-weight:bold;"><a href="https://www.facebook.com/thatricanmc/videos">Videos</a></h4>
 
-
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2GrA1Q5wVnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 </center>
-
-
-
-
-
