@@ -1,5 +1,5 @@
 ---
-title: "BC Studios \U0001F399"
+title: BC Studios
 img_alt: lorem-ipsum
 seo:
   title: ''
@@ -8,51 +8,71 @@ seo:
   extra: []
 template: page
 ---
-# Studio
+# BC Music LLC
 
-\<center>
+<center>
 
 <!--Dayspedia.com widget-->
 
 <iframe width='363' height='252' style='padding:0!important;margin:0!important;border:none!important;background:none!important;background:transparent!important' marginheight='0' marginwidth='0' frameborder='0' scrolling='no' comment='/*defined*/' src='https://dayspedia.com/if/digit/?v=1&iframe=eyJ3LTEyIjp0cnVlLCJ3LTExIjp0cnVlLCJ3LTEzIjp0cnVlLCJ3LTE0IjpmYWxzZSwidy0xNSI6dHJ1ZSwidy0xMTAiOmZhbHNlLCJ3LXdpZHRoLTAiOmZhbHNlLCJ3LXdpZHRoLTEiOnRydWUsInctd2lkdGgtMiI6ZmFsc2UsInctMTYiOiI0OHB4Iiwidy0xOSI6IjQ4Iiwidy0xNyI6IjI0Iiwidy0yMSI6dHJ1ZSwiYmdpbWFnZSI6MTMsImJnaW1hZ2VTZXQiOnRydWUsInctMjFjMCI6IiNmZmZmZmYiLCJ3LTAiOnRydWUsInctMyI6dHJ1ZSwidy0zYzAiOiIjMzQzNDM0Iiwidy0zYjAiOiI0Iiwidy02IjoiIzM0MzQzNCIsInctMjAiOnRydWUsInctNCI6IiMwMDdkYmYiLCJ3LTE4Ijp0cnVlLCJ3LXdpZHRoLTJjLTAiOiIzMDAifQ==&lang=en&cityid=54452'></iframe>
 
+
 <!--Dayspedia.com widget ENDS-->
 
 
 
+[Arts & Entertainment](https://www.facebook.com/search/?bqf=str%2FArts%2B%2526%2BEntertainment%2Fkeywords_pages&ref=page_about_category&f=AbrZa3ui1f4SGFiPjQXj-x4mPnKzr2mW24BY8rvK_1BhY8J4qSrO-ASmEHrZhqXtewfNOo4SxYCSuh9C1g3uMPsltH5ub5nB2pViN3SckrwgaAqq1uTbvkFcXv2WATDQIFsHVusapqnZIZRXyqZt6HwP)
+
+#### HOURS   ⇒⇒⇒⇒⇒⇒    Always Open   
+
+## BUSINESS DETAILS
 
 
 
+### ADDITIONAL CONTACT INFO
+
+[http://bcmusicllc.com/](http://bcmusicllc.com/?fbclid=IwAR0c3X_H23nvmxUwjlKh815h4ekZY9YH3bSXl8Ni3v9iscmy8f6gEmfRvtE)
+
+(201) 364-2867
+
+<bcausemusic@gmail.com>
+
+Send Message
+
+MORE INFO
+
+About
 
 
 
+Music Rehearsal Production
 
+**Please book session 24 hours in advance. Thank you.**
 
+## Additional Information
 
+> Email: BCauseMusic@Gmail.com
 
-## Info:
+> Drexlermusic@Gmail.com
 
+> Omarparadiddlemusic@Gmail.com
 
+> JimmyBCMusic@Gmail.com
 
+Music is why we live.
 
+It is why we decided not to fall in line with everyone else by playing it safe and trapping ourselves in a secured lifestyle.
 
+We choose this uncertain path because we are the risk takers and the voice.
 
-
-
-
+-drexler
 
 
 
 
 ## Events:
 
-***
 
-***
-
-***
-
-##
 
 ## Past Events
 
