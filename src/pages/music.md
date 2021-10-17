@@ -14,7 +14,7 @@ template: page
 <br>
 <br>
 <center>
-<iframe style="border: 0; width: 400px; height: 836px;" src="https://bandcamp.com/EmbeddedPlayer/album=2473459906/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://mclexxx.bandcamp.com/album/hip-hop-wars-return-of-the-mc">Hip-Hop Wars: Return of the MC by MC LexXx</a></iframe>
+<iframe style="border: 0; width: 500px; height: 836px;" src="https://bandcamp.com/EmbeddedPlayer/album=2473459906/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://mclexxx.bandcamp.com/album/hip-hop-wars-return-of-the-mc">Hip-Hop Wars: Return of the MC by MC LexXx</a></iframe>
 </center>
 <br>
 <br>
